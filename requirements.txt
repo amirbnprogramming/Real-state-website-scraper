@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.3
+chromedriver-autoinstaller==0.6.4
+chromedrivermanager==0.0.1
+pandas==2.0.3
+requests==2.32.3
+selenium==4.21.0
+undetected-chromedriver==3.5.5
+pyTelegramBotAPI==4.19.1
+python-telegram-bot==13.7
